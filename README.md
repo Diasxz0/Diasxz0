@@ -1,16 +1,31 @@
- Olá, me chamo Warlley Dias
-Estou interessado em aprender Engenharia de Software e melhorar minhas habilidades de codificação.
- Atualmente estou aprendendo Python e como implementar as melhores práticas no desenvolvimento de software.
- Estou a procura de colaborar em projectos e contribuir para soluções de software do mundo real.
- Podem contactar-me através do GitHub ou me enviar um e-mail para wmedeiros.d@gmail.com.
+# Olá, eu me chamo Warlley Dias! 
 
+Estudante de Engenharia na **Universidade de Brasília (UnB)**, focado em migrar para o fluxo de **Engenharia de Software**. Atualmente, estou no meu 3º semestre, aprimorando minhas habilidades em desenvolvimento backend e sistemas robustos.
 
+---
 
-Hi, I'm Warlley Dias
-I’m interested in learning Engineering of Software and improving my coding skills.
- I’m currently learning Python and how to implement best practices in software development.
- I’m looking to collaborate on open-source projects and contribute to real-world software solutions.
- You can reach me via GitHub Issues or email me at wmedeiros.d@gmail.com.
+### 🚀 Sobre Mim
+- 🎓 Cursando Engenharia na UnB (FCTE) - Campus Gama.
+- 💻 Foco total em **Desenvolvimento Backend** com Java.
+- 🎯 Atualmente estudando: Programação Orientada a Objetos, Matemática Discreta e Métodos Numéricos.
+- ⚙️ Interessado em arquitetura de sistemas, bancos de dados (Oracle/NoSQL) e tecnologias Blockchain.
+
+### 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** Java (Principal), C, pyhton
+- **Backend:** Spring Boot (em aprendizado), POO Avançado
+- **Bancos de Dados:** Conhecimentos em Oracle e bancos NoSQL
+- **Ferramentas:** Git, GitHub
+
+### 📊 Estatísticas do GitHub
+![Estatísticas do GitHub de Warlley](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dracula)
+
+### 📫 Como me encontrar
+- **LinkedIn:** [linkedin.com/in/SEU_PERFIL](https://linkedin.com/in/SEU_PERFIL)
+- **E-mail:** seu.email@exemplo.com
+
+---
+*"Transformando café em código e problemas complexos em soluções elegantes."*
 
 
 <!---
