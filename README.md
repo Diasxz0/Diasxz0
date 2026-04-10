@@ -16,16 +16,12 @@ Estudante de Engenharia na **Universidade de Brasília (UnB)**, focado em migrar
 - **Bancos de Dados:** Conhecimentos em Oracle e bancos NoSQL
 - **Ferramentas:** Git, GitHub
 
-### 📊 Estatísticas do GitHub
-![Estatísticas do GitHub de Warlley](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dracula)
-
 ### 📫 Como me encontrar
 - **LinkedIn:** [linkedin.com/in/SEU_PERFIL](https://linkedin.com/in/SEU_PERFIL)
 - **E-mail:** seu.email@exemplo.com
 
 ---
-*"Transformando café em código e problemas complexos em soluções elegantes."*
+
 
 
 <!---
