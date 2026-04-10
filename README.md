@@ -17,8 +17,8 @@ Estudante de Engenharia na **Universidade de Brasília (UnB)**, focado em migrar
 - **Ferramentas:** Git, GitHub
 
 ### 📫 Como me encontrar
-- **LinkedIn:** [linkedin.com/in/SEU_PERFIL](https://linkedin.com/in/SEU_PERFIL)
-- **E-mail:** seu.email@exemplo.com
+- **LinkedIn:** [[linkedin.com/in/SEU_PERFIL](https://linkedin.com/in/SEU_PERFIL)](https://www.linkedin.com/in/warlley-dias-de-medeiros-0b1304354/)
+- **E-mail:** wmedeiros.d@gmail.com
 
 ---
 
